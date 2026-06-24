@@ -1,0 +1,340 @@
+
+
+
+
+PAGINA 1
+
+
+NOME: X = 60 Y = 80
+DATA DE NASC: X= 480 Y= 80
+TELEFONE CELULAR (WHATTSAPP ): X=177 Y=105
+CPF NÚMERO: X=40 Y:150
+RG NÚMERO:  X= 220 Y=150
+PIS NÚMERO: X= 420 Y=150
+ESTADO CIVIL: X= 270 Y= 175
+ESTA RECEBENDO SEGURO
+SIM:  X= 490 Y= 170   OU    NÃO:  X= 512 Y= 170
+
+E-MAIL: X = 60 Y = 195
+ESCOLARIDADE: X = 400 Y = 195
+NATURALIDADE: X = 80 Y = 220
+COR / RAÇA: X = 260  Y = 220
+
+
+DEPENDENTES (MENORES 14 ANOS)
+SE:
+
+SIM: X = 458 Y = 210                     
+
+SE:
+
+NÃO: 
+SIM: X = 478 Y = 210
+
+ 
+BANCO: X = 44 Y = 255
+AGÊNCIA: X = 285 Y = 255
+CONTA: X = 450 Y = 255 
+
+ESTA RECEBENDO 
+SEGURO
+
+SE:
+
+SIM: X = 485 Y = 175
+
+SE: 
+
+NÃO: X= 509 Y = 175
+
+
+
+DEPENDENTES MENORES DE 14 ANOS 
+
+SE:
+
+SIM: X = 454 Y = 218
+
+SE: 
+
+NÃO: X = 475 Y = 218
+
+
+OPERAÇÃO
+
+SE: 
+
+conta-corrente
+
+PREENCHER COM X :  X= 108     Y = 279       
+
+SE:
+
+POUPANÇA X = 245 Y = 279
+
+
+
+VALE TRANSPORTE:
+
+SE
+
+SIM: PREENCHER "X" EM: X = 93  Y = 298             
+
+SE:
+
+NÃO: 
+
+PREENCHER "X" EM: X = 93  Y = 318    
+
+
+
+
+
+PAGINA 2
+
+
+PREENCHER COM "NOME": X = 180 Y = 205
+ENDEREÇO: X = 80 Y = 247
+NOME DO PROPRIETARIO DO IMOVEL: X = 160 Y = 290
+
+PREENCHER COM "PROPRIETÁRIA DO IMOVEL" EM: X = 120 Y = 330
+
+
+PAGINA 3 
+
+CASO CARGO SEJA: servente de limpeza 40h 
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+Bata Cinza: X= 450 = y = 490
+Sapato - Spup Preto :  X= 450 Y = 510
+Luva de Látex Azul: X= 450 Y = 530
+Luva de Látex Amarela: X= 450 Y = 550
+Máscara Facial de Tecido: X= 450 Y = 570
+
+CASO CARGO SEJA: servente de limpeza 20h 
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+Bata Cinza: X= 450 = y = 490
+Sapato - Spup Preto :  X= 450 Y = 510
+Luva de Látex Azul: X= 450 Y = 530
+Luva de Látex Amarela: X= 450 Y = 550
+Máscara Facial de Tecido: X= 450 Y = 570
+
+
+CASO CARGO SEJA: Apoio Escolar 20h
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+
+Jaleco Azul: X= 450 = y = 490
+Máscara facil de tecido :  X= 450 Y = 510
+Camiseta Dry Ribana Azul (Manga Curta) : X= 450 Y = 530
+
+CASO CARGO SEJA: Apoio Escolar 40h
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+
+Jaleco Azul: X= 450 = y = 490
+Máscara facil de tecido :  X= 450 Y = 510
+Camiseta Dry Ribana Azul (Manga Curta) : X= 450 Y = 530
+
+
+CASO CARGO SEJA: Assitente Administrativo 20h
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+
+Jaleco Azul: X= 450 = y = 490
+Máscara facil de tecido :  X= 450 Y = 510
+Camiseta Dry Ribana Azul (Manga Curta) : X= 450 Y = 530
+
+CASO CARGO SEJA: Assitente Administrativo 40h
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+
+Jaleco Azul: X= 450 = y = 490
+Máscara facil de tecido :  X= 450 Y = 510
+Camiseta Dry Ribana Azul (Manga Curta) : X= 450 Y = 530
+
+
+CASO CARGO SEJA: Copeiro(a) 40h 
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+Camiseta Branca (Manga Curta): X= 450 = y = 490
+Calça Social Preta:  X= 450 Y = 510
+Bata Branca: X= 450 Y = 530
+Sapato Preto: X= 450 Y = 550
+Rede de Cabelo: X= 450 Y = 570
+
+CASO CARGO SEJA: Encarregado(a) 40h 
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+Camiseta Dry Ribana Azul (Manga Curta): X= 450 = y = 490
+Camiseta Social Azul (Manga Longa):  X= 450 Y = 510
+Máscara Facial de Tecido : X= 450 Y = 530
+Sapato Social: X= 450 Y = 550
+
+CASO CARGO SEJA: Merendeira 20h 
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+Camiseta Branca (Manga Curta): X= 450 = y = 490
+Calça Branca:  X= 450 Y = 510
+Avental PVC Branco: X= 450 Y = 530
+Spup Branco : X= 450 Y = 550
+Máscara Facial de Tecido : X= 450 Y = 570
+Touca Descartável Branca: X= 450 Y = 598
+
+CASO CARGO SEJA: Merendeira 40h 
+
+PREENCHER COM "NOME": X = 145 Y = 145
+PREENCHER COM "CPF" : X = 145 Y = 163
+Data de admissão: X = 145 Y = 197
+Local de trabalho: X = 145 Y = 215
+
+Camiseta Branca (Manga Curta): X= 450 = y = 490
+Calça Branca:  X= 450 Y = 510
+Avental PVC Branco: X= 450 Y = 530
+Spup Branco : X= 450 Y = 550
+Máscara Facial de Tecido : X= 450 Y = 570
+Touca Descartável Branca: X= 450 Y = 598
+
+
+PAGINA 4
+
+NOME:X =320 Y = 118
+CPF: X= 355 Y = 134
+LOCAL DE TRABALHO: X= 590 Y = 134
+
+
+PAGINA 6 
+
+
+Nome: X= 144 Y= 144
+CPF: X= 144 Y =  163
+Data de admissão: X= 144 Y = 200
+Local de trabalho: X= 144 Y = 217
+
+
+PAGINA: 8
+
+PREENCHER COM "NOME" : X = 50 Y = 118
+DATA DE ADMISSÃO: X = 50 Y = 144
+CPF: X = 230 Y = 144
+LOCAL DE TRABALHO: X = 400 Y = 144
+ENDEREÇO: X = 50 Y = 171
+CEP: X = 50 Y = 197
+BAIRRO:  X = 160 Y = 197
+MUNICIPIO: X = 280 Y = 197
+UF: X = 400 Y = 197
+
+
+
+SE:
+
+VALE TRANSPORTE: SIM 
+
+Marcar com "X" : X = 50 Y = 244
+
+RESIDÊNCIA --- > TRABALHO
+
+
+Nome da linha: VILA VELA - X = 81 Y = 458
+
+Tarifa: 6,00 - X = 477 Y = 458
+
+Nome da linha2: APUCARANA - X = 81 Y = 472
+
+Tarifa2: X = 477 Y = 455  
+
+
+TRABALHO ---> RESIDÊNCIA 
+
+Nome da linha: VILA VELA - X = 81 Y = 528
+
+Tarifa: 6,00 - X = 477  Y = 528
+
+Nome da linha2: APUCARANA - X = 81 Y = 542
+
+Tarifa2: 6,00 - X = 477 Y = 542
+
+ 
+VALE TRANSPORTE: NÃO	
+
+
+Marcar com "X" : X = 50 Y = 258
+
+
+
+
+PAGINA: 9
+
+
+PREENCHER COM "NOME": X = 70 Y = 390
+
+
+PAGINA 10:
+
+
+PREENCHER COM "NOME": X = 120 Y = 130
+CPF: X = 180 Y = 150
+
+CASO POSSUI DEPENDENTES:SIM
+
+DEPENDENTE 1: X = 105 Y = 270
+DEPENDENTE 2: X = 105 Y = 318
+DEPENDENTE 3: X = 105 Y = 360
+DEPENDENTE 4: X = 105 Y = 410
+DEPENDENTE 5: X = 105 Y = 453
+
+
+CASO POSSUI DEPENDENTES: NÃO 
+
+DEIXAR EM BRANCO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
