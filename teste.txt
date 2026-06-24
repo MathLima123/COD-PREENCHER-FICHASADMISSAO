@@ -1,0 +1,46 @@
+===========================================
+ASSISTENTE ADMINISTRATIVO 20H
+===========================================
+
+nome=CARLOS EDUARDO LIMA
+data_nascimento=01/01/1980
+telefone_celular=(41)96666-5555
+cpf=999.888.777-66
+rg=44556677
+pis=3.333.444.555-6
+estado_civil=DIVORCIADO
+seguro_desemprego=1
+email=adm@email.com
+escolaridade=SUPERIOR COMPLETO
+naturalidade=CURITIBA
+cor_raca=PRETA
+
+dependente1=
+dependente2=
+dependente3=
+dependente4=
+dependente5=
+
+banco=SANTANDER
+agencia=1111
+conta=22222-2
+
+endereco=RUA CENTRAL, 45
+cep=83000-000
+bairro=AGUA VERDE
+municipio=CURITIBA
+uf=PR
+
+nome_proprietario=RICARDO LIMA
+
+cargo=assistente administrativo 20h
+data_admissao=01/06/2026
+local_trabalho=SEED - NUCLEO ADMINISTRATIVO
+
+dependentes_menores=não
+operacao=corrente
+vale_transporte=não
+
+jaleco=M
+mascara=M
+camiseta=M
